@@ -82,7 +82,7 @@
         "gn:id":3573008
     },
     "wof:country":"BM",
-    "wof:geomhash":"980026fb8f49b2b78b0a1faba0027a7d",
+    "wof:geomhash":"b13e0070c4f5bfa8d987772e830eda43",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -109,5 +109,5 @@
     -64.74110999999999,
     32.32639
 ],
-  "geometry": {"coordinates":[-64.74110999999999,32.32639],"type":"Point"}
+  "geometry": {"coordinates":[-64.74111,32.32639],"type":"Point"}
 }
