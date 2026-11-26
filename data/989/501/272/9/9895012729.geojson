@@ -1,0 +1,76 @@
+{
+  "id": 9895012729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.86931,32.29637,-64.86931,32.29637",
+    "geom:latitude":32.29637,
+    "geom:longitude":-64.86931,
+    "gn:population":7653,
+    "iso:country":"BM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13353871: name \"Sandys Parish\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13353871"
+        },
+        {
+            "citation":"GeoNames populated place 13353871: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13353871"
+        },
+        {
+            "citation":"GeoNames populated place 13353871: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13353871"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85669377 (Sandys), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632731,
+        85669377,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13353871
+    },
+    "wof:country":"BM",
+    "wof:geomhash":"23332c1b3fd371011259921045df6588",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632731,
+            "empire_id":136253055,
+            "locality_id":9895012729,
+            "region_id":85669377
+        }
+    ],
+    "wof:id":9895012729,
+    "wof:lastmodified":1795735216,
+    "wof:name":"Sandys Parish",
+    "wof:parent_id":85669377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.86931,
+    32.29637,
+    -64.86931,
+    32.29637
+],
+  "geometry": {"coordinates":[-64.86931,32.29637],"type":"Point"}
+}
